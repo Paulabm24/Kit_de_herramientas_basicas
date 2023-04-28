@@ -1,5 +1,5 @@
 # Kit_de_herramientas_basicas
-Programas que contengan estos apartados:
+
 ## [1.- Información del sistema](modulo1.md)
 
 ## [2.-Testeo disco](modulo2.md)
