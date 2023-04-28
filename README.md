@@ -10,8 +10,6 @@ Programas que contengan estos apartados:
 
 ## [5.- LIBRE](modulo5.md)
 
-## [Referencias:](referencias.md)
-
 ## Autores
 Paula Brito Milan
 ## LICENCIA 
