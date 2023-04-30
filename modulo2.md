@@ -5,4 +5,4 @@ CrystalDiskInfo muestra también detallada información sobre el hardware de cad
 
 [Enlace del programa](https://crystaldiskinfo.uptodown.com/windows)
 
-[Video]()
+[Video](https://youtu.be/HRVLjenyQIE)
