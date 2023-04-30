@@ -3,4 +3,5 @@ John the Ripper es una herramienta para recuperación de contraseñas. Originalm
 Puede ser ejecutado contra varios formatos de contraseñas cifradas, incluyendo varios tipos de hash de contraseñas criptográficas que se encuentran comúnmente en varias versiones de Unix (basadas en DES, MD5 o Blowfish), Kerberos AFS, y hash LM en Windows NT/2000/XP/2003. Los módulos adicionales han ampliado su capacidad para incluir hashes de contraseñas basados en MD4 y contraseñas almacenadas en LDAP, MySQL y otros.
 
 ![images](1.PNG)
+
 [Video](https://youtu.be/3rkI1r6xW7w)
